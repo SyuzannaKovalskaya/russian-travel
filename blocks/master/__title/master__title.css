@@ -1,0 +1,18 @@
+.master__title {
+    margin: 54px auto 0;
+    text-align: center;
+}
+
+@media screen and (max-width:1279px) {
+    .master__title {
+        margin-top: 45px;
+    }
+}
+
+@media screen and (max-width:767px) {
+    .master__title {
+        margin-top: 46px;
+        font-size: 40px;
+        line-height: 44px;
+    }
+}

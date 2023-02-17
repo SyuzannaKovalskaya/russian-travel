@@ -1,0 +1,23 @@
+.language {
+    margin-left: auto;
+    padding: 41px 48px 0 0;
+    display: flex;
+    gap: 18px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+}
+
+@media screen and (max-width:1023px) {
+    .language {
+        padding: 41px 24px 0 0;
+    }
+}
+
+@media screen and (max-width:767px) {
+    .language {
+        padding: 23px 16px 0 0;
+        font-size: 18px;
+        line-height: 20px;
+    }
+}

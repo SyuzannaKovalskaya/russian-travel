@@ -1,0 +1,9 @@
+.master {
+    padding: 0 48px;
+}
+
+@media screen and (max-width:1023px) {
+    .master {
+        padding: 0;
+    }
+}

@@ -1,0 +1,14 @@
+.master__subtitle {
+    margin: 32px auto 0;
+    max-width: 640px;
+    text-align: center;
+}
+
+@media screen and (max-width:767px) {
+    .master__subtitle {
+        margin: 15px auto 0;
+        max-width: 288px;
+        font-size: 16px;
+        line-height: 20px;
+    }
+}

@@ -1,0 +1,27 @@
+.master__figcaption {
+    margin-top: 8px;
+    display: block;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 14px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+}
+
+@media screen and (max-width:1279px) {
+    .master__figcaption {
+        margin: 8px auto 0;
+    }
+}
+
+@media screen and (max-width:1023px) {
+    .master__figcaption {
+        padding-left: 24px;
+    }
+}
+
+@media screen and (max-width:767px) {
+    .master__figcaption {
+        padding-left: 16px;
+    }
+}

@@ -1,0 +1,26 @@
+.master__img {
+    width: 100%;
+}
+
+/* @media screen and (max-width:1170px) {
+    .master__img {
+        display: block;
+        width: 928px;
+        height: 580px;
+        margin: 0 auto;
+    }
+} */
+
+/* @media screen and (max-width:1023px) {
+    .master__img {
+        width: 768px;
+        height: 480px;
+    }
+} */
+
+/* @media screen and (max-width:767px) {
+    .master__img {
+        width: 320px;
+        height: 200px;
+    }
+} */

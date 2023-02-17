@@ -1,0 +1,7 @@
+.nav__link {
+    transition: opacity 0.3s ease-in-out;
+}
+
+.nav__link:hover {
+    opacity: 0.8;
+}
