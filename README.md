@@ -10,3 +10,5 @@
 Карелия
 
 * В проекте реализованы технологии grid, flex, плавные hover переходы.
+
+* Ссылка на проект https://syuzannakovalskaya.github.io/russian-travel/ 
