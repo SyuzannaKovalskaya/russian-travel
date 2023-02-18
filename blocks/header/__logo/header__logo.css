@@ -1,4 +1,5 @@
 .header__logo {
+    box-sizing: border-box;
     padding: 28px 0 0 48px;
 }
 

@@ -1,7 +1,6 @@
-.descr__info {
-    margin: 33px 100px 0;
+.descr__list {
+    margin: 32px 148px 0;
     max-width: 690px;
-    height: 90px;
     font-weight: 700;
     font-size: 12px;
     line-height: 18px;
@@ -9,7 +8,13 @@
 
 
 @media screen and (max-width:1279px) {
-    .descr__info {
+    .descr__list {
+        margin: 33px 48px 0;
+    }
+}
+
+@media screen and (max-width:1023px) {
+    .descr__list {
         margin: 33px 0 0;
     }
 }

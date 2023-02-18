@@ -1,8 +1,9 @@
 .master {
+    box-sizing: border-box;
     padding: 0 48px;
 }
 
-@media screen and (max-width:1023px) {
+@media screen and (max-width:1279px) {
     .master {
         padding: 0;
     }
