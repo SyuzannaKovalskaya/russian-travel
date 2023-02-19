@@ -41,7 +41,7 @@
     }
 }
 
-@media screen and (max-width: 1052px) {
+@media screen and (max-width: 1023px) {
     .additional__link {
         min-height: 480px;
     }
